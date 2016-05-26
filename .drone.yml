@@ -20,7 +20,7 @@ publish:
     username: $$DOCKER_USER
     password: $$DOCKER_PASS
     email: $$DOCKER_EMAIL
-    repo: teaci/msys$$arch
+    repo: fracting/msys$$arch
     tag:
       - "testing"
       - "w1.9.10-m2.5.1-3"
